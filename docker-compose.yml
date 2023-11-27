@@ -3,4 +3,4 @@ services:
   app:
     image: nagamani007/notes-app:latest
     ports:
-      - "80:80"
+     - "8000:8000"
